@@ -1,3 +1,2 @@
-from data_processing import calculates_investisment_group
-
-calculates_investisment_group()
+from data_processing import show_the_results
+show_the_results()
